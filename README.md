@@ -37,6 +37,13 @@ Tools, packages and so on that I've used in my work and want to remember.
 ## Plotting
 - seaborn
 
+## DB
+- motor
+- aioredis
+
+## Web development
+- flask
+- aiohttp
 
 ## Testing
 [flake8](https://pypi.org/project/flake8/) - My favorite linter. I find it easy to configure. 
