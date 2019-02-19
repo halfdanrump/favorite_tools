@@ -6,6 +6,12 @@ Tools, packages and so on that I've used in my work and want to remember.
 - [imgcat](https://github.com/eddieantonio/imgcat) for iTerm2 - It's like cat but for images.
 
 # Python
+
+## Environment Management
+ - pipenv
+ - pipdeptree - I use this when resolving dependency issues in pipenv
+ - virtualenvwrapper (not using recently, but it deserves a spot)
+ 
 ## Caching
 - [cachetools](https://pypi.org/project/cachetools/) - Has a lot of useful caching decorators
 - [async-lru](https://pypi.org/project/async_lru/) - Simple LRU caching for coroutines
