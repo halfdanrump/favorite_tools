@@ -4,6 +4,7 @@ Tools, packages and so on that I've used in my work and want to remember.
 # Shell
 - [bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
 - [imgcat](https://github.com/eddieantonio/imgcat) for iTerm2 - It's like cat but for images.
+- [fish](https://fishshell.com/)
 
 # Python
 
