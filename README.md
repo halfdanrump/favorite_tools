@@ -25,11 +25,15 @@ Tools, packages and so on that I've used in my work and want to remember.
 ## Data Structures
 - [frozendict](https://pypi.org/project/frozendict/) - Immutable dictionary
 
-## Other
-- [tenacity](https://pypi.org/project/tenacity/) - Super useful library for retrying. I use it often with HTTP calls on unstable connections.
+# Data Mining
+- pandas
+- dask
 
 ## Testing
 [flake8](https://pypi.org/project/flake8/) - My favorite linter. I find it easy to configure. 
 [pytest-cov](https://pypi.org/project/pytest-cov/) - easy test coverage
 [pytest-xdist](https://pypi.org/project/pytest-xdist/) - Run tests in parallel
+
+## Other
+- [tenacity](https://pypi.org/project/tenacity/) - Super useful library for retrying. I use it often with HTTP calls on unstable connections.
 
