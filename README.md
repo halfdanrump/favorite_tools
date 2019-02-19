@@ -25,9 +25,18 @@ Tools, packages and so on that I've used in my work and want to remember.
 ## Data Structures
 - [frozendict](https://pypi.org/project/frozendict/) - Immutable dictionary
 
-# Data Mining
+## Data Mining
 - pandas
 - dask
+
+## Geospatial
+- geopandas
+- osmnx
+- folium
+
+## Plotting
+- seaborn
+
 
 ## Testing
 [flake8](https://pypi.org/project/flake8/) - My favorite linter. I find it easy to configure. 
