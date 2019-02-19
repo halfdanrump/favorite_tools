@@ -24,6 +24,7 @@ Tools, packages and so on that I've used in my work and want to remember.
 
 ## Data Structures
 - [frozendict](https://pypi.org/project/frozendict/) - Immutable dictionary
+- bson, in particular bson.json_util for easy serialization of `datetime` and `ObjectId` types
 
 ## Data Mining
 - pandas
