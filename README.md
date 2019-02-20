@@ -43,6 +43,7 @@ Tools, packages and so on that I've used in my work and want to remember.
 
 ## DB
 - pymongo
+- sqlalchemy
 - motor
 - aioredis
 
