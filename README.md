@@ -29,6 +29,7 @@ Tools, packages and so on that I've used in my work and want to remember.
 - bson, in particular bson.json_util for easy serialization of `datetime` and `ObjectId` types
 
 ## Data Science
+- numpy
 - pandas
 - dask
 - [dask-kubernetes](https://kubernetes.dask.org/en/latest/) - I used this to spin up clustres for in memory analysis of TB sized data, then shutting down the VMs after completion.
@@ -37,9 +38,12 @@ Tools, packages and so on that I've used in my work and want to remember.
 ## Geospatial
 - geopandas
 - osmnx
-- folium
 
 ## Plotting
+- [bokeh](https://bokeh.pydata.org/en/latest/) - Great library for making streaming graphs and dashboards redered to javascript in the browser
+- [brewer2mpl](https://pypi.org/project/brewer2mpl/) - useful little package with nice matplitlib compatible color maps
+- folium
+- matplotlib - lately there are so many high-level python plotting libs available, so I don't Matplotlib use so much. But it's the old grandfather, and I used to swear by it, so on the list it goes :)level details. 
 - seaborn
 
 ## DB
