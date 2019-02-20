@@ -1,6 +1,8 @@
 # favorite_tools
 Tools, packages and so on that I've used in my work and want to remember. 
 
+..this started out as a list of libraries that I just didn't want to forget, but now I'm having fun remembering all the libraries that I've used and loved in the past :)
+
 # Shell
 - [bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
 - [imgcat](https://github.com/eddieantonio/imgcat) for iTerm2 - It's like cat but for images.
@@ -26,9 +28,10 @@ Tools, packages and so on that I've used in my work and want to remember.
 - [frozendict](https://pypi.org/project/frozendict/) - Immutable dictionary
 - bson, in particular bson.json_util for easy serialization of `datetime` and `ObjectId` types
 
-## Data Mining
+## Data Science
 - pandas
 - dask
+- jupiter
 
 ## Geospatial
 - geopandas
@@ -39,6 +42,7 @@ Tools, packages and so on that I've used in my work and want to remember.
 - seaborn
 
 ## DB
+- pymongo
 - motor
 - aioredis
 
