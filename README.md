@@ -3,6 +3,14 @@ Tools, packages and so on that I've used in my work and want to remember.
 
 ..this started out as a list of libraries that I just didn't want to forget, but now I'm having fun remembering all the libraries that I've used and loved in the past :)
 
+# Editors
+## Atom
+- [Vim Mode Plus](https://atom.io/packages/vim-mode-plus)
+- [Atom Reindent](https://github.com/kbrose/atom-reindent)
+
+## Vim
+- Syntastic
+
 # Shell
 - [bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
 - [imgcat](https://github.com/eddieantonio/imgcat) for iTerm2 - It's like cat but for images.
