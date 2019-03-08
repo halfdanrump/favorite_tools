@@ -32,6 +32,9 @@ Tools, packages and so on that I've used in my work and want to remember.
 - [nameko](https://github.com/nameko/nameko) - Python framework for building microservices
 - [pyzmq](https://pyzmq.readthedocs.io/en/latest/) - Probably my most favorite messagig library of all times.
 
+## Job processing
+- [python-rq](https://python-rq.org/docs/workers/)
+
 ## Data Structures
 - [frozendict](https://pypi.org/project/frozendict/) - Immutable dictionary
 - bson, in particular bson.json_util for easy serialization of `datetime` and `ObjectId` types
@@ -62,6 +65,7 @@ Tools, packages and so on that I've used in my work and want to remember.
 ## DB
 - pymongo
 - sqlalchemy
+- ponyORM
 - motor
 - aioredis
 
