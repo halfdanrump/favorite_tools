@@ -15,6 +15,7 @@ Tools, packages and so on that I've used in my work and want to remember.
 - [bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
 - [imgcat](https://github.com/eddieantonio/imgcat) for iTerm2 - It's like cat but for images.
 - [fish](https://fishshell.com/) and [Oh My Fish](https://github.com/oh-my-fish), especially [bobthefish](https://github.com/oh-my-fish/theme-bobthefish)
+- [aws-shell](https://github.com/awslabs/aws-shell)
 
 # Python
 
