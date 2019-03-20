@@ -20,7 +20,8 @@ Tools, packages and so on that I've used in my work and want to remember.
 # Python
 
 ## Environment Management
- - pipenv
+- [pyenv](https://github.com/pyenv/pyenv)
+- pipenv
  - pipdeptree - I use this when resolving dependency issues in pipenv
  - virtualenvwrapper (not using recently, but it deserves a spot)
  
