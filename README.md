@@ -7,6 +7,8 @@ Tools, packages and so on that I've used in my work and want to remember.
 ## Atom
 - [Vim Mode Plus](https://atom.io/packages/vim-mode-plus)
 - [Atom Reindent](https://github.com/kbrose/atom-reindent)
+- [Terraform syntax highlighting](https://atom.io/packages/language-terraform)
+- [Terraform linting](https://atom.io/packages/linter-terraform-syntax)
 
 ## Vim
 - Syntastic
