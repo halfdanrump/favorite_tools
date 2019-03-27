@@ -20,6 +20,9 @@ Tools, packages and so on that I've used in my work and want to remember.
 - [fish](https://fishshell.com/) and [Oh My Fish](https://github.com/oh-my-fish), especially [bobthefish](https://github.com/oh-my-fish/theme-bobthefish)
 - [aws-shell](https://github.com/awslabs/aws-shell)
 
+# Cloud Infrastructure
+- Terraform
+
 # Python
 
 ## Environment Management
