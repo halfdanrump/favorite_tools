@@ -10,6 +10,7 @@ Tools, packages and so on that I've used in my work and want to remember.
 - [Terraform syntax highlighting](https://atom.io/packages/language-terraform)
 - [Terraform linting](https://atom.io/packages/linter-terraform-syntax)
 - [Hydrogen](https://atom.io/packages/hydrogen) - Run code blocks like in Jupyter notebooks 
+- [Pretty JSON](https://atom.io/packages/pretty-json)
 
 ## Vim
 - Syntastic
