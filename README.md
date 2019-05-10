@@ -91,6 +91,7 @@ Tools, packages and so on that I've used in my work and want to remember.
 ## Other
 - [tenacity](https://pypi.org/project/tenacity/) - Super useful library for retrying. I use it often with HTTP calls on unstable connections.
 - scoop - I used to use this to distribute workloads over clusters of machines in my lab. Probably outdated by now.
+- [faker](https://faker.readthedocs.io/en/master/) I use this to create mock data for tests
 
 # Third Party Services
 - Datadog - I use use datadog to monitor most of my deployed containers
