@@ -21,6 +21,7 @@ Tools, packages and so on that I've used in my work and want to remember.
 - [fish](https://fishshell.com/) and [Oh My Fish](https://github.com/oh-my-fish), especially [bobthefish](https://github.com/oh-my-fish/theme-bobthefish)
 - [aws-shell](https://github.com/awslabs/aws-shell)
 - [awslogs](https://github.com/jorgebastida/awslogs) Much easier than having to use `aws-shell` or the AWS GUI
+- [saw](https://github.com/TylerBrock/saw) Much like `awslogs`, but has a handy `watch` feature. 
 
 # Cloud Infrastructure
 - Terraform
