@@ -95,6 +95,7 @@ Tools, packages and so on that I've used in my work and want to remember.
 - scoop - I used to use this to distribute workloads over clusters of machines in my lab. Probably outdated by now.
 - [faker](https://faker.readthedocs.io/en/master/) I use this to create mock data for tests
 - [black](https://black.readthedocs.io/en/stable/) - Keeps the python code syntax clean and readable.
+- [isort](https://github.com/timothycrosley/isort) - Manages module import order
 
 # Third Party Services
 - Datadog - I use use datadog to monitor most of my deployed containers
