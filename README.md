@@ -96,7 +96,7 @@ Tools, packages and so on that I've used in my work and want to remember.
 - [faker](https://faker.readthedocs.io/en/master/) I use this to create mock data for tests
 - [black](https://black.readthedocs.io/en/stable/) - Keeps the python code syntax clean and readable.
 - [isort](https://github.com/timothycrosley/isort) - Manages module import order
-
+- [hashids](https://hashids.org/python/)
 # Third Party Services
 - Datadog - I use use datadog to monitor most of my deployed containers
 - Sentry - Use it for services that contain a lot of state that's useful when debugging
