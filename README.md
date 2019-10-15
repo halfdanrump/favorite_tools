@@ -15,6 +15,10 @@ Tools, packages and so on that I've used in my work and want to remember.
 ## Vim
 - Syntastic
 
+# Git
+- [gitup](https://gitup.co/) - GUI for git, also visualizes branches nicely
+- [redate](https://github.com/PotatoLabs/git-redate) - useful if system time was wrong when comitting
+
 # Shell
 - [bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
 - [imgcat](https://github.com/eddieantonio/imgcat) for iTerm2 - It's like cat but for images.
