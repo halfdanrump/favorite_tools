@@ -101,6 +101,9 @@ Tools, packages and so on that I've used in my work and want to remember.
 - [black](https://black.readthedocs.io/en/stable/) - Keeps the python code syntax clean and readable.
 - [isort](https://github.com/timothycrosley/isort) - Manages module import order
 - [hashids](https://hashids.org/python/)
+- [tqdm](https://github.com/tqdm/tqdm) - progress bars in scripts printed to terminal
+- [progressbar2](https://pypi.org/project/progressbar2/) - another progressbar library. I use it similarly to `tqdm`.
+
 # Third Party Services
 - Datadog - I use use datadog to monitor most of my deployed containers
 - Sentry - Use it for services that contain a lot of state that's useful when debugging
