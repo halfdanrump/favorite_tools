@@ -4,6 +4,7 @@ Tools, packages and so on that I've used in my work and want to remember.
 ..this started out as a list of libraries that I just didn't want to forget, but now I'm having fun remembering all the libraries that I've used and loved in the past :)
 
 # Editors
+
 ## Atom
 - [Vim Mode Plus](https://atom.io/packages/vim-mode-plus)
 - [Atom Reindent](https://github.com/kbrose/atom-reindent)
@@ -94,12 +95,15 @@ Tools, packages and so on that I've used in my work and want to remember.
 [pytest-cov](https://pypi.org/project/pytest-cov/) - easy test coverage
 [pytest-xdist](https://pypi.org/project/pytest-xdist/) - Run tests in parallel
 
+## Linting and Type Checking
+- [black](https://black.readthedocs.io/en/stable/) - Keeps the python code syntax clean and readable.
+- [isort](https://github.com/timothycrosley/isort) - Manages module import order
+- [mypy](http://mypy-lang.org/)
+
 ## Other
 - [tenacity](https://pypi.org/project/tenacity/) - Super useful library for retrying. I use it often with HTTP calls on unstable connections.
 - scoop - I used to use this to distribute workloads over clusters of machines in my lab. Probably outdated by now.
 - [faker](https://faker.readthedocs.io/en/master/) I use this to create mock data for tests
-- [black](https://black.readthedocs.io/en/stable/) - Keeps the python code syntax clean and readable.
-- [isort](https://github.com/timothycrosley/isort) - Manages module import order
 - [hashids](https://hashids.org/python/)
 - [tqdm](https://github.com/tqdm/tqdm) - progress bars in scripts printed to terminal
 - [progressbar2](https://pypi.org/project/progressbar2/) - another progressbar library. I use it similarly to `tqdm`.
