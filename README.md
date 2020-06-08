@@ -98,7 +98,7 @@ Tools, packages and so on that I've used in my work and want to remember.
 ## Linting and Type Checking
 - [black](https://black.readthedocs.io/en/stable/) - Keeps the python code syntax clean and readable.
 - [isort](https://github.com/timothycrosley/isort) - Manages module import order
-- [mypy](http://mypy-lang.org/)
+- [mypy](http://mypy-lang.org/) - static type checker. Remember to install [mypy language server](https://github.com/matangover/mypyls/releases/tag/0.26.1)
 
 ## Other
 - [tenacity](https://pypi.org/project/tenacity/) - Super useful library for retrying. I use it often with HTTP calls on unstable connections.
