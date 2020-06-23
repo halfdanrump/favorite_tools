@@ -28,10 +28,23 @@ Tools, packages and so on that I've used in my work and want to remember.
 - [awslogs](https://github.com/jorgebastida/awslogs) Much easier than having to use `aws-shell` or the AWS GUI
 - [saw](https://github.com/TylerBrock/saw) Much like `awslogs`, but has a handy `watch` feature. 
 
+# Hosted Services
+## AWS
+- RDS
+- Lambda
+- ECS
+- ECR
+..many more.. is this list useful? 
+
+
+## GCE
+- bigquery
+
 # Cloud Infrastructure
 - Terraform
+- [AWS Amplify](https://aws.amazon.com/amplify/) - great for quick prototyping, although gets tricky if you try to do stuff not in the docs. 
 
-## Frontend
+# Frontend
 - [Material UI](https://material-ui.com/)
 
 # Python
