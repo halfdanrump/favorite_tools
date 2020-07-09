@@ -124,6 +124,7 @@ Tools, packages and so on that I've used in my work and want to remember.
 - [hashids](https://hashids.org/python/)
 - [tqdm](https://github.com/tqdm/tqdm) - progress bars in scripts printed to terminal
 - [progressbar2](https://pypi.org/project/progressbar2/) - another progressbar library. I use it similarly to `tqdm`.
+- [wget](https://pypi.org/project/wget/)
 
 # Third Party Services
 - Datadog - I use use datadog to monitor most of my deployed containers
