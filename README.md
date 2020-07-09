@@ -51,6 +51,7 @@ Tools, packages and so on that I've used in my work and want to remember.
 
 ## Environment Management
 - [pyenv](https://github.com/pyenv/pyenv)
+  - [pyenv virtualenv](https://github.com/pyenv/pyenv-virtualenv)
 - ~pipenv~ R.I.P 🧟🧟🧟 
  - pipdeptree - I use this when resolving dependency issues in pipenv
 - [virtualenvwrapper](https://virtualenvwrapper.readthedocs.io/en/latest/) - makes it super easy to switch between virtualenvs
