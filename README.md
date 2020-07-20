@@ -19,6 +19,7 @@ Tools, packages and so on that I've used in my work and want to remember.
 # Git
 - [gitup](https://gitup.co/) - GUI for git, also visualizes branches nicely
 - [redate](https://github.com/PotatoLabs/git-redate) - useful if system time was wrong when comitting
+- [BFG Repo Cleaner](https://rtyley.github.io/bfg-repo-cleaner/) - for finding and removing large files and passwords comitted to git 
 
 # Shell
 - [bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
