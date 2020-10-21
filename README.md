@@ -154,5 +154,10 @@ Tools, packages and so on that I've used in my work and want to remember.
 - Sentry - Use it for services that contain a lot of state that's useful when debugging
 - Apiary - Online parser and formatter of API Blueprint markup
 
+# Other tools
+Airflow
+Docker
+Kubernetes
+
 # Reading and Documentation
 - [Python 3 Patterns, Recipes and Idioms](https://python-3-patterns-idioms-test.readthedocs.io/en/latest/)
