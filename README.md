@@ -31,12 +31,32 @@ Tools, packages and so on that I've used in my work and want to remember.
 
 # Hosted Services
 ## AWS
-- RDS
+- EC2
 - Lambda
-- ECS
-- ECR
-..many more.. is this list useful? 
-
+- S3
+- RDS (Aurora)
+- DynamoDB
+- ElastiCache (Redis and memcached)
+- DocumentDB
+- Redshift
+- VPC
+- CloudFront
+- Route 53
+- API Gateway
+- CodeBuild
+- CodeDeploy
+- CodePipeline
+- CloudWatch
+- CloudFormation
+- CloudTrail
+- IAM
+- Cognito
+- Secrets Manager
+- Key Management Service
+- AWS Amplify
+- AppSync
+- Simple Queue Service
+- Elastic Container Registry
 
 ## GCE
 - bigquery
