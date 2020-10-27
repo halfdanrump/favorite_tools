@@ -70,6 +70,8 @@ Tools, packages and so on that I've used in my work and want to remember.
 
 # Python
 
+- [prebaked lambda layers](https://github.com/keithrozario/Klayers/blob/master/deployments/python3.8/arns/ap-northeast-1.csv)
+
 ## Environment Management
 - [pyenv](https://github.com/pyenv/pyenv)
   - [pyenv virtualenv](https://github.com/pyenv/pyenv-virtualenv)
