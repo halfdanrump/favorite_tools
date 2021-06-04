@@ -103,6 +103,7 @@ Tools, packages and so on that I've used in my work and want to remember.
 - dask
 - [dask-kubernetes](https://kubernetes.dask.org/en/latest/) - I used this to spin up clustres for in memory analysis of TB sized data, then shutting down the VMs after completion.
 - jupiter
+- [jupytext](https://github.com/mwouts/jupytext)
 
 ## Machine Learning
 - https://github.com/benfred/implicit/
