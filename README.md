@@ -79,6 +79,7 @@ Tools, packages and so on that I've used in my work and want to remember.
  - pipdeptree - I use this when resolving dependency issues in pipenv
 - [virtualenvwrapper](https://virtualenvwrapper.readthedocs.io/en/latest/) - makes it super easy to switch between virtualenvs
 - [autoenv](https://github.com/inishchith/autoenv) and [autoenv_fish](https://github.com/loopbit/autoenv_fish)
+- [direnv](https://github.com/direnv/direnv/wiki/Python)
  
 ## Caching
 - [cachetools](https://pypi.org/project/cachetools/) - Has a lot of useful caching decorators
