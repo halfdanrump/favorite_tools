@@ -24,7 +24,13 @@ Tools, packages and so on that I've used in my work and want to remember.
 # Shell
 - [bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
 - [imgcat](https://github.com/eddieantonio/imgcat) for iTerm2 - It's like cat but for images.
-- [fish](https://fishshell.com/) and [Oh My Fish](https://github.com/oh-my-fish), especially [bobthefish](https://github.com/oh-my-fish/theme-bobthefish)
+## Fish
+- [fish](https://fishshell.com/)
+- [Oh My Fish package manager](https://github.com/oh-my-fish)
+- [bobthefish theme](https://github.com/oh-my-fish/theme-bobthefish)
+- [plugin-git](https://github.com/jhillyerd/plugin-git)
+
+## AWS
 - [aws-shell](https://github.com/awslabs/aws-shell)
 - [awslogs](https://github.com/jorgebastida/awslogs) Much easier than having to use `aws-shell` or the AWS GUI
 - [saw](https://github.com/TylerBrock/saw) Much like `awslogs`, but has a handy `watch` feature. 
