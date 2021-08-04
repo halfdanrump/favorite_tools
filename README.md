@@ -111,6 +111,7 @@ Tools, packages and so on that I've used in my work and want to remember.
 - [dask-kubernetes](https://kubernetes.dask.org/en/latest/) - I used this to spin up clustres for in memory analysis of TB sized data, then shutting down the VMs after completion.
 - jupiter
 - [jupytext](https://github.com/mwouts/jupytext)
+- awswrangler
 
 ## Machine Learning
 - https://github.com/benfred/implicit/
@@ -158,6 +159,7 @@ Tools, packages and so on that I've used in my work and want to remember.
 - [tqdm](https://github.com/tqdm/tqdm) - progress bars in scripts printed to terminal
 - [progressbar2](https://pypi.org/project/progressbar2/) - another progressbar library. I use it similarly to `tqdm`.
 - [wget](https://pypi.org/project/wget/)
+- [retry](https://pypi.org/project/retry/)
 
 # Third Party Services
 - Datadog - I use use datadog to monitor most of my deployed containers
