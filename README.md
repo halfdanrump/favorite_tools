@@ -112,6 +112,8 @@ Tools, packages and so on that I've used in my work and want to remember.
 - jupiter
 - [jupytext](https://github.com/mwouts/jupytext)
 - awswrangler
+- [pandera](https://pandera.readthedocs.io/en/stable/)
+- [papermill](https://papermill.readthedocs.io/en/latest/)
 
 ## Machine Learning
 - https://github.com/benfred/implicit/
