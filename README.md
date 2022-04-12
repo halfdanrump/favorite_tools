@@ -149,6 +149,7 @@ Tools, packages and so on that I've used in my work and want to remember.
 
 ## Linting and Type Checking
 - [black](https://black.readthedocs.io/en/stable/) - Keeps the python code syntax clean and readable.
+- [black for jupyter notebooks](https://github.com/drillan/jupyter-black)
 - [isort](https://github.com/timothycrosley/isort) - Manages module import order
 - [mypy](http://mypy-lang.org/) - static type checker. Remember to install [mypy language server](https://github.com/matangover/mypyls/releases/tag/0.26.1)
 - [pycln](https://hadialqattan.github.io/pycln/#/) - auto remove unused imports
