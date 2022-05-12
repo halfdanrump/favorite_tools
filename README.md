@@ -112,8 +112,8 @@ Tools, packages and so on that I've used in my work and want to remember.
 - jupiter
 - [jupytext](https://github.com/mwouts/jupytext)
 - awswrangler
-- [pandera](https://pandera.readthedocs.io/en/stable/)
 - [papermill](https://papermill.readthedocs.io/en/latest/)
+- [pandas-profiling](https://pypi.org/project/pandas-profiling/)
 
 ## Machine Learning
 - https://github.com/benfred/implicit/
@@ -176,3 +176,7 @@ Kubernetes
 
 # Reading and Documentation
 - [Python 3 Patterns, Recipes and Idioms](https://python-3-patterns-idioms-test.readthedocs.io/en/latest/)
+
+# Data engineering
+* [Panderas](https://pandera.readthedocs.io/en/stable/index.html) - Python dataframe schema
+* [Great Expectations](https://docs.greatexpectations.io/docs/) - Data validation, e.g. for ETL
