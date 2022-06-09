@@ -180,3 +180,8 @@ Kubernetes
 # Data engineering
 * [Panderas](https://pandera.readthedocs.io/en/stable/index.html) - Python dataframe schema
 * [Great Expectations](https://docs.greatexpectations.io/docs/) - Data validation, e.g. for ETL
+* [dbt](https://www.getdbt.com/)
+* [dolt](https://www.dolthub.com/)
+
+# CICD
+- [Github action linter](https://rhysd.github.io/actionlint/)
