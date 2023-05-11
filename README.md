@@ -180,6 +180,14 @@ Airflow
 Docker
 Kubernetes
 
+# Firefox
+- simple tab groups
+- yomichan
+- https everywhere
+- Firefox multi-account containers
+- uBlock origin
+- facebook container, twitter container, amazon container, google container
+
 # Reading and Documentation
 - [Python 3 Patterns, Recipes and Idioms](https://python-3-patterns-idioms-test.readthedocs.io/en/latest/)
 
