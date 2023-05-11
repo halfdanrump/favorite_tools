@@ -29,6 +29,8 @@ Tools, packages and so on that I've used in my work and want to remember.
 - [Oh My Fish package manager](https://github.com/oh-my-fish)
 - [bobthefish theme](https://github.com/oh-my-fish/theme-bobthefish)
 - [plugin-git](https://github.com/jhillyerd/plugin-git)
+- [chatgpt-prompt-wrapper](https://github.com/rcmdnk/chatgpt-prompt-wrapper)
+- [zsh rocketship](https://github.com/spaceship-prompt/spaceship-prompt)
 
 ## AWS
 - [aws-shell](https://github.com/awslabs/aws-shell)
@@ -63,6 +65,7 @@ Tools, packages and so on that I've used in my work and want to remember.
 - AppSync
 - Simple Queue Service
 - Elastic Container Registry
+- aws batch
 
 ## GCE
 - bigquery
@@ -70,6 +73,7 @@ Tools, packages and so on that I've used in my work and want to remember.
 # Cloud Infrastructure
 - Terraform
 - [AWS Amplify](https://aws.amazon.com/amplify/) - great for quick prototyping, although gets tricky if you try to do stuff not in the docs. 
+- brainboard
 
 # Frontend
 - [Material UI](https://material-ui.com/)
@@ -141,6 +145,8 @@ Tools, packages and so on that I've used in my work and want to remember.
 - flask
 - aiohttp
 - aiohttp-sentry
+- fastapi
+- sqlmodel
 
 ## Testing
 [flake8](https://pypi.org/project/flake8/) - My favorite linter. I find it easy to configure. 
@@ -182,6 +188,7 @@ Kubernetes
 * [Great Expectations](https://docs.greatexpectations.io/docs/) - Data validation, e.g. for ETL
 * [dbt](https://www.getdbt.com/)
 * [dolt](https://www.dolthub.com/)
+* 
 
 # CICD
 - [Github action linter](https://rhysd.github.io/actionlint/)
