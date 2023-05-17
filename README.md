@@ -32,6 +32,11 @@ Tools, packages and so on that I've used in my work and want to remember.
 - [chatgpt-prompt-wrapper](https://github.com/rcmdnk/chatgpt-prompt-wrapper)
 - [zsh rocketship](https://github.com/spaceship-prompt/spaceship-prompt)
 
+## zsh
+- oh my zsh
+- [zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions/blob/master/INSTALL.md)
+- [history](https://github.com/ohmyzsh/ohmyzsh/tree/master/plugins/history)
+
 ## AWS
 - [aws-shell](https://github.com/awslabs/aws-shell)
 - [awslogs](https://github.com/jorgebastida/awslogs) Much easier than having to use `aws-shell` or the AWS GUI
